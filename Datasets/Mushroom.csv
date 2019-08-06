@@ -1,0 +1,5 @@
+Color,Size,Shape,Land,Air humidity,Texture,P/NP
+Red,Small,Round,Humid,Low,Smooth,Poisonous
+Red,Small,Elongated,Humid,Low,Smooth,Poisonous
+Grey,Large,Elongated,Humid,Low,Rough,Non-poisonous
+Red,Small,Elongated,Humid,High,Rough,Poisonous
